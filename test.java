@@ -2,7 +2,10 @@
 public class Point {
  
 
-  // Ajout du constructeur
- public Point(){}
+  // Ajout d'un constructeur avec param
+ public Point(){
+ int x;
+ int y;
+ }
 
         }
